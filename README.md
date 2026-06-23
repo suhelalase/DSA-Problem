@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 | [1189-maximum-number-of-balloons](https://github.com/suhelalase/DSA-Problem/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 | [1189-maximum-number-of-balloons](https://github.com/suhelalase/DSA-Problem/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
