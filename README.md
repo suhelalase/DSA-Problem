@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhelalase/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhelalase/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
