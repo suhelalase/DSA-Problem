@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/suhelalase/DSA-Problem/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/suhelalase/DSA-Problem/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
