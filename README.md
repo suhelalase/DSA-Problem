@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhelalase/DSA-Problem/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
