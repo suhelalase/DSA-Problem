@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -79,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/suhelalase/DSA-Problem/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Depth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
+## Union-Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
+## Graph Theory
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
