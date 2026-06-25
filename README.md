@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suhelalase/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhelalase/DSA-Problem/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/suhelalase/DSA-Problem/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
+| [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
 | [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
 ## Monotonic Stack
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
+| [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sliding Window
 |  |
