@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhelalase/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suhelalase/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
@@ -74,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suhelalase/DSA-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
