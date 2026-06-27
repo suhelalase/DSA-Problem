@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suhelalase/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/suhelalase/DSA-Problem/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhelalase/DSA-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suhelalase/DSA-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhelalase/DSA-Problem/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhelalase/DSA-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/suhelalase/DSA-Problem/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suhelalase/DSA-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhelalase/DSA-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
