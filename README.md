@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/suhelalase/DSA-Problem/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhelalase/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/suhelalase/DSA-Problem/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhelalase/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
