@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/suhelalase/DSA-Problem/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suhelalase/DSA-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhelalase/DSA-Problem/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/suhelalase/DSA-Problem/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suhelalase/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/suhelalase/DSA-Problem/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Two Pointers
 |  |
 | ------- |
