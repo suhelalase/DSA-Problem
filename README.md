@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suhelalase/DSA-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhelalase/DSA-Problem/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhelalase/DSA-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suhelalase/DSA-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suhelalase/DSA-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suhelalase/DSA-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
 ## Monotonic Stack
 |  |
