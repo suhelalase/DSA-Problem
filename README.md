@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suhelalase/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/suhelalase/DSA-Problem/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suhelalase/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suhelalase/DSA-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/suhelalase/DSA-Problem/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/suhelalase/DSA-Problem/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suhelalase/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/suhelalase/DSA-Problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suhelalase/DSA-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/suhelalase/DSA-Problem/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
