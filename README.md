@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/suhelalase/DSA-Problem/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suhelalase/DSA-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/suhelalase/DSA-Problem/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suhelalase/DSA-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhelalase/DSA-Problem/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhelalase/DSA-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suhelalase/DSA-Problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/suhelalase/DSA-Problem/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/suhelalase/DSA-Problem/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Two Pointers
 |  |
 | ------- |
