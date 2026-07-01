@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhelalase/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suhelalase/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhelalase/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/suhelalase/DSA-Problem/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/suhelalase/DSA-Problem/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suhelalase/DSA-Problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/suhelalase/DSA-Problem/tree/master/0875-koko-eating-bananas) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhelalase/DSA-Problem/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suhelalase/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/suhelalase/DSA-Problem/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhelalase/DSA-Problem/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
