@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suhelalase/DSA-Problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/suhelalase/DSA-Problem/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/suhelalase/DSA-Problem/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/suhelalase/DSA-Problem/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/suhelalase/DSA-Problem/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suhelalase/DSA-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/suhelalase/DSA-Problem/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/suhelalase/DSA-Problem/tree/master/0441-arranging-coins) |
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/suhelalase/DSA-Problem/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suhelalase/DSA-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suhelalase/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
