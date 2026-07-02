@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhelalase/DSA-Problem/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suhelalase/DSA-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suhelalase/DSA-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suhelalase/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/suhelalase/DSA-Problem/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suhelalase/DSA-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -173,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhelalase/DSA-Problem/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhelalase/DSA-Problem/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,10 +209,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
 | ------- |
