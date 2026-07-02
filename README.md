@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 | [1189-maximum-number-of-balloons](https://github.com/suhelalase/DSA-Problem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suhelalase/DSA-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 | [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
@@ -203,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
