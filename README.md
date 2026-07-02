@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/suhelalase/DSA-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suhelalase/DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/suhelalase/DSA-Problem/tree/master/1189-maximum-number-of-balloons) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/suhelalase/DSA-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 | [1189-maximum-number-of-balloons](https://github.com/suhelalase/DSA-Problem/tree/master/1189-maximum-number-of-balloons) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/suhelalase/DSA-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
