@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhelalase/DSA-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/suhelalase/DSA-Problem/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 | [1189-maximum-number-of-balloons](https://github.com/suhelalase/DSA-Problem/tree/master/1189-maximum-number-of-balloons) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/suhelalase/DSA-Problem/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhelalase/DSA-Problem/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhelalase/DSA-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/suhelalase/DSA-Problem/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
