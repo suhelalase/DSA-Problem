@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/suhelalase/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suhelalase/DSA-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/suhelalase/DSA-Problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/suhelalase/DSA-Problem/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suhelalase/DSA-Problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/suhelalase/DSA-Problem/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0410-split-array-largest-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/suhelalase/DSA-Problem/tree/master/1301-number-of-paths-with-max-score) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/suhelalase/DSA-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suhelalase/DSA-Problem/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/suhelalase/DSA-Problem/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/suhelalase/DSA-Problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
