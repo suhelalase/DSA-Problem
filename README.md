@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/suhelalase/DSA-Problem/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suhelalase/DSA-Problem/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/suhelalase/DSA-Problem/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhelalase/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/suhelalase/DSA-Problem/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suhelalase/DSA-Problem/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/suhelalase/DSA-Problem/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
