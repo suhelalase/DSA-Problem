@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1840-maximum-building-height](https://github.com/suhelalase/DSA-Problem/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suhelalase/DSA-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2092-find-all-people-with-secret](https://github.com/suhelalase/DSA-Problem/tree/master/2092-find-all-people-with-secret) |
+| [3536-maximum-product-of-two-digits](https://github.com/suhelalase/DSA-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suhelalase/DSA-Problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suhelalase/DSA-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/suhelalase/DSA-Problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suhelalase/DSA-Problem/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sliding Window
 |  |
