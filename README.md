@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suhelalase/DSA-Problem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/suhelalase/DSA-Problem/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/suhelalase/DSA-Problem/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhelalase/DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/suhelalase/DSA-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suhelalase/DSA-Problem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/suhelalase/DSA-Problem/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/suhelalase/DSA-Problem/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/suhelalase/DSA-Problem/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/suhelalase/DSA-Problem/tree/master/0756-pyramid-transition-matrix) |
 ## Bit Manipulation
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/suhelalase/DSA-Problem/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/suhelalase/DSA-Problem/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/suhelalase/DSA-Problem/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suhelalase/DSA-Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
